@@ -2,6 +2,7 @@ package sw.arq.component;
 
 import java.io.Serializable;
 
+@Deprecated
 public class Package implements Serializable {
 
     private int id;

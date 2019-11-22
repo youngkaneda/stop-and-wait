@@ -9,7 +9,8 @@ This strategy cover 3 different problems.
 
 ### TODO
 
-1.  create a class for sender and receiver.
-2. improve the marshalling and unmarshalling of data, using only bytes, not objects.
+1. ~~create a class for sender and receiver~~.
+2. ~~improve the marshalling and unmarshalling of data, using only bytes, not objects~~.
 3. improve the code to be more readable and clean.
+4. add a checksum strategy.
 
